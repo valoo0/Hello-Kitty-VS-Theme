@@ -1,5 +1,9 @@
 # Hello-Kitty-VS-Theme
 
+
+![test-template-color-vsctheme](https://github.com/user-attachments/assets/05841f54-6849-4ba8-abf1-030888c56538)
+
+
 Hello, this is my first VSC theme ever, so i don't really know how to start this documentation.
 I want to create a cute theme based on hello kitty colours for you to create cute things in code ! (and because the new hello kitty island adventures game are now out :) 
 
