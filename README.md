@@ -18,5 +18,5 @@ Or in Extensions in VS Code:
   2 Search for hello kitty vs theme
   3 Click Install
   4 Open the Command Palette with Ctrl+Shift+P or ⇧⌘P
-  5 Select Preferences: Color Theme and choose "Dango theme"
+  5 Select Preferences: Color Theme and choose "Hello Kitty VS Theme"
   6 Enjoy!
