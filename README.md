@@ -1,7 +1,8 @@
 # Hello-Kitty-VS-Theme
 
 
-![test-template-color-vsctheme](https://github.com/user-attachments/assets/05841f54-6849-4ba8-abf1-030888c56538)
+![test-template-color-vsctheme-2](https://github.com/user-attachments/assets/385680c5-1fa5-4922-b229-a5dd1ebd396f)
+
 
 
 Hello, this is my first VSC theme ever, so i don't really know how to start this documentation.
