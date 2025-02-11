@@ -13,8 +13,6 @@ In this file you will find how to install your new theme and all the changes i w
 
 Enjoy it and feel free to install !!! <3
 
-icon ![icon-vsctheme-hellokitty](https://github.com/user-attachments/assets/e09175e8-ce8b-4619-99d1-fac8a0a5bdc8)
-
 
 ⋆˚✿˖°꒰ᐢ. .ᐢ꒱⋆𐙚₊˚⊹♡ִֶָ𓂃 ࣪˖ ִֶ་༘࿐☆
 HOW TO INSTALL YOUR NEW CUTE THEME : 
@@ -29,3 +27,6 @@ Or in Extensions in VS Code:
   4 Open the Command Palette with Ctrl+Shift+P or ⇧⌘P
   5 Select Preferences: Color Theme and choose "Hello Kitty VS Theme"
   6 Enjoy!
+
+  ![icon-vsctheme-hellokitty](https://github.com/user-attachments/assets/37a8f984-c531-40f8-98b3-670bff4c6710)
+
