@@ -15,8 +15,8 @@ In this file you will find how to install your new theme and all the changes i w
 Enjoy it and feel free to install !!! <3
 
 
-**⋆˚✿˖°꒰ᐢ. .ᐢ꒱⋆𐙚₊˚⊹♡ִֶָ𓂃 ࣪˖ ִֶ་༘࿐☆
-HOW TO INSTALL YOUR NEW CUTE THEME : **
+⋆˚✿˖°꒰ᐢ. .ᐢ꒱⋆𐙚₊˚⊹♡ִֶָ𓂃 ࣪˖ ִֶ་༘࿐☆
+**HOW TO INSTALL YOUR NEW CUTE THEME :**
  
 Find it on the Visual Studio Marketplace — here
 
