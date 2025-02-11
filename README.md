@@ -1,7 +1,8 @@
 # Hello-Kitty-VS-Theme
 
 
-![test-template-color-vsctheme-4](https://github.com/user-attachments/assets/ff6bd545-f5e7-4cad-a774-9fdcc8a5f60d)
+![test-template-color-vsctheme-4](https://github.com/user-attachments/assets/ab0d19c4-dc75-4c1b-91c3-a9d2d7b4f72e)
+
 
 
 
